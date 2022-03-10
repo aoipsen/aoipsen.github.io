@@ -4,7 +4,7 @@ email: aoipsen@mit.edu
 description: "Just a blog"
 baseurl: ""
 url: "https://aoipsen.github.io/"
-title_description: "My name is Anton Ipsen and currently grad student in Business Analytics at MIT Sloan. <a href=\"_data/resume.pdf\" download>Click here</a> to access my resume"
+title_description: "My name is Anton Ipsen and currently grad student in Business Analytics at MIT Sloan. <a href=\"https://web.mit.edu/aoipsen/www/docs/resume.pdf\" download>Click here</a> to access my resume"
 title_image: "https://avatars.githubusercontent.com/u/58310996?s=400&u=ea0b2078a8ece760b32e3ade43338bdc6f65fed6&v=4"
 google_analytics: 
 disqus_account: 
